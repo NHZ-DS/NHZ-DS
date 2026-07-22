@@ -1,12 +1,6 @@
-<div align="center">
 
-```
-_   __            __          _ __         __________  ____  ___    __  _______
-   / | / /___  __  __/ /_  ____ _(_) /___ _   / ____/ __ \/ __ \/   |  /  |/  /  _/
-  /  |/ / __ \/ / / / __ \/ __ `/ / / __ `/  / __/ / /_/ / /_/ / /| | / /|_/ // /  
- / /|  / /_/ / /_/ / / / / /_/ / / / /_/ /  / /___/ _, _/ _, _/ ___ |/ /  / // /   
-/_/ |_/\____/\__,_/_/ /_/\__,_/_/_/\__,_/  /_____/_/ |_/_/ |_/_/  |_/_/  /_/___/
-```
+<div align="center"> <img src="https://capsule-render.com/api?type=waving&color=0:2E3192,100:1BFFFF&height=180&section=header&text=Nouhaila%20ERRAMI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+
 
 ### Every project starts with curiosity. Every solution begins with data.
 
