@@ -19,7 +19,8 @@
 
 Data Science & AI student @ Polytech Clermont.
 
-I enjoy transforming raw data into meaningful insights, developing intelligent models, and building solutions that help solve real-world problems. Whether it's data analytics, machine learning, or AI, I'm always exploring new ways to turn ideas into impact.
+I enjoy transforming raw data into meaningful insights, developing 
+models, and building solutions that help solve real-world problems. Whether it's data analytics, machine learning, or AI, I'm always exploring new ways to turn ideas into impact.
 
 - 📊 Data Analytics & Business Insights
 - 🤖 Machine Learning & Artificial Intelligence
