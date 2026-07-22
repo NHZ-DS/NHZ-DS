@@ -1,6 +1,6 @@
+<div align="center">
 
-<div align="center"> <img src="https://capsule-render.com/api?type=waving&color=0:2E3192,100:1BFFFF&height=180&section=header&text=Nouhaila%20ERRAMI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
-
+<img src="https://capsule-render.com/api?type=waving&color=0:2E3192,100:1BFFFF&height=180&section=header&text=Nouhaila%20ERRAMI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 ### Every project starts with curiosity. Every solution begins with data.
 
@@ -11,10 +11,9 @@
 
 ## 👤 About
 
-Data Science & AI student @ Polytech Clermont.
+Data Science & AI student @ Polytech.
 
-I enjoy transforming raw data into meaningful insights, developing 
-models, and building solutions that help solve real-world problems. Whether it's data analytics, machine learning, or AI, I'm always exploring new ways to turn ideas into impact.
+I enjoy transforming raw data into meaningful insights, developing intelligent models, and building solutions that help solve real-world problems. Whether it's data analytics, machine learning, or AI, I'm always exploring new ways to turn ideas into impact.
 
 - 📊 Data Analytics & Business Insights
 - 🤖 Machine Learning & Artificial Intelligence
