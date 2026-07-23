@@ -17,7 +17,7 @@
 
 ## 👤 About
 
-Data Science & AI student @ Polytech.
+Data Science & AI student @ Polytech Clermont.
 
 I enjoy transforming raw data into meaningful insights, and building solutions that help solve real-world problems. Whether it's data analytics, machine learning, or AI, I'm always exploring new ways to turn ideas into impact.
 
